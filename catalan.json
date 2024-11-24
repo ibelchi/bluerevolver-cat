@@ -1,0 +1,3066 @@
+{
+    "areyousure": {
+        "english": "Are you sure?",
+        "catalan": "Estàs segur/a?"
+    },
+    "assist_enhancedshot": {
+        "doubleaction": true,
+        "english": "Enhanced Shot",
+        "catalan": "Dispar millorat"
+    },
+    "assist_enhancedshot_description": {
+        "doubleaction": true,
+        "english": "Increased primary weapon damage. (+35%)",
+        "catalan": "Dany de l'arma principal augmentat. (+35%)"
+    },
+    "assist_freeplay": {
+        "english": "Free Play",
+        "catalan": "Partida gratuïta"
+    },
+    "assist_freeplay_description": {
+        "doubleaction": true,
+        "english": "Arcade-style continues, allowing you to refill your lives and keep going when you run out.",
+        "catalan": "Continuacions estil arcade, amb totes les vides de nou quan s'han acabat."
+    },
+    "assist_infiniteammo": {
+        "doubleaction": true,
+        "english": "Infinite Ammo",
+        "catalan": "Munició infinita"
+    },
+    "assist_infiniteammo_description": {
+        "doubleaction": true,
+        "english": "Infinite ammo for all special weapons.",
+        "catalan": "Munició infinita per totes les armes especials."
+    },
+    "assist_reducedbullets": {
+        "doubleaction": true,
+        "english": "Reduced Bullets",
+        "catalan": "Número reduït de bales"
+    },
+    "assist_reducedbullets_description": {
+        "doubleaction": true,
+        "english": "50% less enemy bullets to deal with.",
+        "catalan": "50% menys de bales enemigues de les que preocupar-te."
+    },
+    "assist_slowbullets": {
+        "doubleaction": true,
+        "english": "Slow Bullets",
+        "catalan": "Bales lentes"
+    },
+    "assist_slowbullets_description": {
+        "doubleaction": true,
+        "english": "40% slower enemy bullets. (Note: This doesn't always make things easier...)",
+        "catalan": "Bales enemigues 40% més lentes. (No té perquè fer que tot plegat sigui més fàcil...)"
+    },
+    "assist_superautobomb": {
+        "doubleaction": true,
+        "english": "Super Autobomb",
+        "catalan": "Super Bomba Automàtica"
+    },
+    "assist_superautobomb_description": {
+        "doubleaction": true,
+        "english": "Bombs are used automatically to save you from death on all modes. Super Autobomb only uses up one bomb, instead of all in reserve.",
+        "catalan": "Les bombes són automàtiques per salvar-te de la mort en tots els modes de joc. La Super Bomba Automàtica només fa servir una bomba enlloc de totes."
+    },
+    "back": {
+        "english": "Back",
+        "catalan": "<noloc>"
+    },
+    "boss1craft": {
+        "english": "R1 \"DELPHI\"",
+        "catalan": "<noloc>"
+    },
+    "boss1name": {
+        "english": "RUM & ALE",
+        "catalan": "<noloc>"
+    },
+    "boss1name_val": {
+        "english": "???",
+        "catalan": "<noloc>"
+    },
+    "boss1quote": {
+        "english": "Where do you think you're going in that machine?",
+        "catalan": "On et penses que vas amb aquest trasto?"
+    },
+    "boss1quote_val": {
+        "english": "... ... ...",
+        "catalan": "... ... ..."
+    },
+    "boss2craft": {
+        "english": "R2 \"HASKEL\"",
+        "catalan": "<noloc>"
+    },
+    "boss2name": {
+        "english": "DON",
+        "catalan": "<noloc>"
+    },
+    "boss2name_val": {
+        "english": "???",
+        "catalan": "<noloc>"
+    },
+    "boss2quote": {
+        "english": "That Device doesn't seem to be registered in our database. Did someone sell it to you?",
+        "catalan": "Aquest dispositiu no està registrat a la nostra base de dades. Algú te l'ha venut?"
+    },
+    "boss2quote_val": {
+        "english": "... ... ...",
+        "catalan": "... ... ..."
+    },
+    "boss3craft": {
+        "english": "R3 \"YASUMI\"",
+        "catalan": "<noloc>"
+    },
+    "boss3name": {
+        "english": "VAL",
+        "catalan": "<noloc>"
+    },
+    "boss3name_val": {
+        "english": "VAL",
+        "catalan": "<noloc>"
+    },
+    "boss3quote": {
+        "english": "I'm getting really tired of playing cat and mouse. Could you do me a favor and go turn yourself in instead?",
+        "catalan": "M'estic cansant de jugar al gat i al ratolí. Series tan amable d'entregar-te?"
+    },
+    "boss3quote_val": {
+        "english": "I'm glad to see that you're doing okay after all.",
+        "catalan": "M'alegro de veure que, al cap i a la fi, estàs bé."
+    },
+    "boss4craft": {
+        "english": "R4 \"LUNA\"",
+        "catalan": "<noloc>"
+    },
+    "boss4name": {
+        "english": "IRA",
+        "catalan": "<noloc>"
+    },
+    "boss4name_val": {
+        "english": "MAE",
+        "catalan": "<noloc>"
+    },
+    "boss4quote": {
+        "english": "I've heard a lot about you. Step out of the cockpit and come play with me!",
+        "catalan": "He sentit a parlar molt de tu. Surt de la cabina i vine a jugar amb mi!"
+    },
+    "boss4quote_val": {
+        "english": "Yoo-hoo!! Would you happen to know where my ship went?",
+        "catalan": "Eooooo! Per casualitat no sabràs on ha anat la meva nau?"
+    },
+    "boss5craft": {
+        "english": "SR-1 \"EPSILON\"",
+        "catalan": "<noloc>"
+    },
+    "boss5name": {
+        "english": "DEE",
+        "catalan": "<noloc>"
+    },
+    "boss5name_val": {
+        "english": "DEE",
+        "catalan": "<noloc>"
+    },
+    "boss5quote": {
+        "english": "If I don't act now, then this could be the end for the both of us. I hope you're ready.",
+        "catalan": "Si no hi poso remei això podria ser la fi d'ambues. Espero que estiguis a punt."
+    },
+    "boss5quote_val": {
+        "english": "You can't stay dreaming like this forever.",
+        "catalan": "Ja és hora que deixis de somiar."
+    },
+    "boss6craft": {
+        "english": "SR-X \"ZEALOT\"",
+        "catalan": "<noloc>"
+    },
+    "boss6name": {
+        "english": "VAL & DEE",
+        "catalan": "<noloc>"
+    },
+    "boss6name_val": {
+        "english": "MAE & DEE",
+        "catalan": "<noloc>"
+    },
+    "boss6quote": {
+        "english": "You're not the only one who can break the rules.",
+        "catalan": "No ets l'única que pot ignorar les regles."
+    },
+    "boss6quote_val": {
+        "english": "You're not the only one who can break the rules.",
+        "catalan": "No ets l'única que pot ignorar les regles."
+    },
+    "boss7craft": {
+        "english": "R3-X \"ZANGYOU\"",
+        "catalan": "<noloc>"
+    },
+    "boss7name": {
+        "english": "???",
+        "catalan": "<noloc>"
+    },
+    "continue_prompt": {
+        "english": "Press SPECIAL to continue!",
+        "catalan": "<noloc>"
+    },
+    "credits_1": {
+        "english": [
+            "=STAFF="
+        ],
+        "catalan": [
+            "<noloc>"
+        ]
+    },
+    "credits_10": {
+        "english": [
+            "MUSIC REMIXES",
+            "Blue Phoenix",
+            "Exemia",
+            "Mitomoro",
+            "Terranaut",
+            "Aghast",
+            "Hyphen",
+            "ikaruga_nex"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_11": {
+        "english": [
+            "GUEST GALLERY",
+            "Shiomachi",
+            "Raigou",
+            "Yosuke",
+            "Arsk",
+            "Hermes",
+            "Naso",
+            "Mandi",
+            "Ken",
+            "Moudoku",
+            "rae",
+            "U#",
+            "Yawe",
+            "Rog Rockbe",
+            "barachan",
+            "Comic-Z",
+            "ginko",
+            "Godshot",
+            "Kusada"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_12": {
+        "english": [
+            "TRANSLATION",
+            "Morikuma",
+            "Tasoyani",
+            "mojilove"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_13": {
+        "english": [
+            "BETA TESTERS",
+            "Jaimers",
+            "Yomogimaru",
+            "Ehkzai",
+            "koren",
+            "pigswill",
+            "Sebmal",
+            "Sibladeko",
+            "GSK",
+            "Nihnoz",
+            "sesh",
+            "whisper",
+            "Cagar",
+            "Bananamatic",
+            "2house2fly",
+            "Softdrink",
+            "PepsimanVsJoe"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_14": {
+        "english": [
+            "=STELLAR PLAYERS=",
+            "",
+            "=WR HOLDERS=",
+            "marus",
+            "むんべちゃん",
+            "Kiwi",
+            "Legless",
+            "",
+            "=FLAWLESS PARALLEL=",
+            "珠海すみれ"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_15": {
+        "doubleaction": true,
+        "english": [
+            "=v0.5 SCORE ATTACK=",
+            "Jaimers, ODENMAN,",
+            "KOT, 路頭のすみす,",
+            "Bryant Rubio, くれない,",
+            "STK, Yomogimaru,",
+            "ふぉれすた, Softdrink,",
+            "Ratikal"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_16": {
+        "english": [
+            "Built with LOVE",
+            "love2d.org",
+            "",
+            "=LIBRARIES=",
+            "HUMP",
+            "Simple Tiled Implementation",
+            "anim8, love-loader",
+            "brinevector, bitser",
+            "moonshine, luasteam",
+            "json.lua, shash.lua",
+            "lume.lua, lurker.lua",
+            "",
+            "=FONTS=",
+            "Silver.ttf",
+            "Thaleah",
+            "04b-03",
+            "ikkle-4"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_17": {
+        "english": [
+            "=BLUE REVOLVER=",
+            "=DOUBLE ACTION=",
+            "",
+            "Presented by",
+            "STELLAR CIRCLE",
+            "2016-2024"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_2": {
+        "english": [
+            "DESIGN / CODE",
+            "danbo"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_3": {
+        "english": [
+            "ART DIRECTION",
+            "woof"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_4": {
+        "english": [
+            "BACKGROUND ART",
+            "Comic"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_5": {
+        "english": [
+            "MUSIC",
+            "Qygen",
+            "Novaturtle",
+            "Exemia",
+            "Hagane"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_6": {
+        "english": [
+            "SOUND",
+            "Wyrm"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_7": {
+        "english": [
+            "=GUESTS="
+        ],
+        "catalan": [
+            "<noloc>"
+        ]
+    },
+    "credits_8": {
+        "english": [
+            "VOICE ACTING",
+            "Momobako",
+            "Nayuki Yuzu",
+            "Akinola Verissimo",
+            "Matthew Cibulas"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_9": {
+        "english": [
+            "MASTERING",
+            "Dyzphazia"
+        ],
+        "catalan": [
+            "<noloc>",
+            "<noloc>"
+        ]
+    },
+    "credits_thanks": {
+        "english": [
+            "Thank you for playing."
+        ],
+        "catalan": [
+            "Gràcies per jugar."
+        ]
+    },
+    "credits_thanks_hyper": {
+        "english": [
+            "Thank you for playing.",
+            "",
+            "Try PARALLEL mode!"
+        ],
+        "catalan": [
+            "Gràcies per jugar.",
+            "<noloc>",
+            "Prova el mode de joc PARALLEL!"
+        ]
+    },
+    "credits_thanks_normal": {
+        "english": [
+            "Thank you for playing.",
+            "",
+            "Try HYPER mode!"
+        ],
+        "catalan": [
+            "Gràcies per jugar.",
+            "<noloc>",
+            "Prova el mode de joc HYPER!"
+        ]
+    },
+    "credits_thanks_parallel": {
+        "english": [
+            "Congratulations on your clear, and thank you from the bottom of our hearts.",
+            "",
+            "The time, the stress and the love we poured into this game would amount to nothing without players like you.",
+            "",
+            "Only when our efforts meet yours can we create something truly stellar.",
+            "",
+            "So may we keep working together, and may STGs never die!"
+        ],
+        "catalan": [
+            "Enhorabona per arribar al final del joc, gràcies de tot cor.",
+            "<noloc>",
+            "El temps, estrès i amor que hem posat en aquest joc no tindria sentit sense jugadors i jugadores com tu.",
+            "<noloc>",
+            "Només quan els nostres esforços es troben amb els teus podem crear quelcom espectacular.",
+            "<noloc>",
+            "De manera que si continuem treballant plegats, els jocs de naus mai moriran!"
+        ]
+    },
+    "dee_ending_1": {
+        "doubleaction": true,
+        "english": "DEE: Hmm... Something about this simulation isn't quite right.",
+        "catalan": "DEE「おかしいわ。\nこのシミュレーション何か変…」"
+    },
+    "dee_ending_2": {
+        "doubleaction": true,
+        "english": "DEE: I could barely keep up with everything it tossed at me.",
+        "catalan": "DEE「いつもと違って、\n今回はまるで余裕がなかった」"
+    },
+    "dee_ending_3": {
+        "doubleaction": true,
+        "english": "DEE: Ira was in charge of today's training program. Surely she didn't tamper with any of the core Device settings?",
+        "catalan": "DEE「今日の訓練プログラムの担当は\nIRAだっけ? まさかデバイスの基本\n設定をいじったりしてないわよね…?」"
+    },
+    "dee_ending_4": {
+        "doubleaction": true,
+        "english": "DEE: My performance rating should definitely be higher...",
+        "catalan": "DEE「私の実績評価が\nこんなに低いはずがないわ…」"
+    },
+    "dee_ending_5": {
+        "doubleaction": true,
+        "english": "DEE: ...",
+        "catalan": "DEE「…。」"
+    },
+    "dee_ending_6": {
+        "doubleaction": true,
+        "english": "DEE: I'm going to have a talk with her after this.",
+        "catalan": "DEE「あとでIRAと\nキッチリ話をする必要がありそうね…」"
+    },
+    "dee_ending_7": {
+        "doubleaction": true,
+        "english": "END",
+        "catalan": "END"
+    },
+    "dee_ending_timings": {
+        "english": [
+            6,
+            6,
+            7,
+            5,
+            3,
+            4,
+            8
+        ],
+        "catalan": [
+            6,
+            6,
+            7,
+            5,
+            3,
+            4,
+            8
+        ]
+    },
+    "difficulty_hyper": {
+        "english": "Hyper",
+        "catalan": "ハイパー"
+    },
+    "difficulty_normal": {
+        "english": "Normal",
+        "catalan": "ノーマル"
+    },
+    "difficulty_parallel": {
+        "english": "Parallel",
+        "catalan": "パラレル"
+    },
+    "difficulty_xmode": {
+        "doubleaction": true,
+        "english": "XP-Mode",
+        "catalan": "XPモード"
+    },
+    "error_leaderboard_upload": {
+        "english": "Leaderboard upload error.",
+        "catalan": "エラー: アップロードが出来ませんでした。"
+    },
+    "error_replay_attach": {
+        "english": "Replay attach error.",
+        "catalan": "リーダーボードエラー（attach）"
+    },
+    "error_replay_download": {
+        "english": "Replay download error.",
+        "catalan": "エラー: リプレイを保存出来ませんでした。"
+    },
+    "error_replay_upload": {
+        "english": "Replay upload error.",
+        "catalan": "エラー: アップロードが出来ませんでした。"
+    },
+    "finalreward_congrats": {
+        "doubleaction": true,
+        "english": "100% completion rate.\nYou have reached the highest point.\nNew ship palettes unlocked.",
+        "catalan": "達成率100%!\nとうとう頂点に立った!\n新たなEXカラーが解除された!"
+    },
+    "finalreward_thanks": {
+        "english": "There's nothing left to say.\nThanks for believing in our game.\nStellar Circle, 2024",
+        "catalan": "<noloc>"
+    },
+    "framerate_warning": {
+        "doubleaction": true,
+        "english": "BLUE REVOLVER is designed and tested for 60Hz - altering this will result in very subtle gameplay differences.\n\nLeaderboards are only available for 60Hz and 120Hz.",
+        "catalan": "注: 『BLUE REVOLVER』は、\nフレームレート「60Hz」で\n開発・ 調整されているので、\n他のフレームレートで動作が\n多少異なる場合があります。\n\n「60Hz」・「120Hz」 以外の\nフレームレート設定は\nリーダーボード非対応です。"
+    },
+    "intro_1": {
+        "english": "In this world, magic possesses a code-like structure.",
+        "catalan": "この世界では、 魔法は\n「コード」という形で存在している。"
+    },
+    "intro_10": {
+        "english": "With this alone, their performance and speed currently excels that of other competing Technician companies.",
+        "catalan": "このデバイスの存在だけでも、 Blue Revolverは他のTechnician組織よりも、 実力や迅速さにおいて優位に立って\nいるといえる状況なのである。"
+    },
+    "intro_11": {
+        "english": "Supposedly only a handful of Devices are known to exist, all licensed under Blue Revolver.",
+        "catalan": "おそらく現時点で存在が知られている\nデバイスは、 ほんの一握りのもの\nでしかないと考えられているが、\n現在これらはすべてBlue Revolverの\nライセンス下にあった。"
+    },
+    "intro_12": {
+        "english": "However, somewhere deep in the mountains lies a huge data anomaly with readings extremely similar to that of a Device.",
+        "catalan": "\nしかし、 とある山の深いところに、 Blue Revolverのデバイスのものと酷似した巨大な異常データが発見された。"
+    },
+    "intro_13": {
+        "english": "Other Technician companies have largely ignored this, assuming it was just one of Blue Revolver's creations.",
+        "catalan": "\n他のTechnicianグループは、\nこのデータをBlue Revolverのものと\n決め付け、 これを放置していた。"
+    },
+    "intro_14": {
+        "english": "Looking for answers and hoping to disable this anomaly, Blue Revolver heads out to investigate.",
+        "catalan": "\n真相を突き止め、 そしてこの異常\nデータを消去するため、Blue \nRevolverは山へ向かうのであった。"
+    },
+    "intro_2": {
+        "english": "Through the use of technological supplements and scripting, the user is able to defy, rewrite, and manipulate the laws of nature temporarily.",
+        "catalan": "このコードを利用したプログラム及び\nツールを通し、 使用者は自然を自在に\n操ることができる。"
+    },
+    "intro_3": {
+        "english": [
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "Due to the unnatural method of handling magic, using it extensively causes ",
+            [
+                0.42745098039216,
+                0.76078431372549,
+                0.7921568627451
+            ],
+            "junk data",
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            " to materialize - hazardous if allowed to build up."
+        ],
+        "catalan": [
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "しかしながら、\"コード\"を誤った方法で使用をすると、 その周囲の環境に\n",
+            [
+                0.42745098039216,
+                0.76078431372549,
+                0.7921568627451
+            ],
+            "ジャンクデータ",
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "が発生してしまう。\nこのジャンクデータが蓄積すると\n環境が汚染されてしまうため、\n危険視されているのである。"
+        ]
+    },
+    "intro_4": {
+        "english": "Safety laws are enforced preventing individuals from building certain types of magical contraptions without a license and proper supervision.",
+        "catalan": "コードのプログラムが複雑になって\nいくほどジャンクデータが発生する\n危険性が高まるため、 高度なプロ\nグラムを作成するにはライセンスを\n所持していることを安全法により\n義務付けているのであった。"
+    },
+    "intro_5": {
+        "english": [
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "Specialists called ",
+            [
+                0.42745098039216,
+                0.76078431372549,
+                0.7921568627451
+            ],
+            "Technicians",
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            " are trained and sent to regularly maintain and negate all types of data anomalies."
+        ],
+        "catalan": [
+            [
+                0.42745098039216,
+                0.76078431372549,
+                0.7921568627451
+            ],
+            "「Technician」",
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "と呼ばれる専門訓練を\n受けたスペシャリストは、 すべてのプ\nログラムの定期管理、 そして発見した\n異常を取り除くため派遣される。"
+        ]
+    },
+    "intro_6": {
+        "english": "Optimal programs and scripts create minimal build-up, but most scripts used by common citizens are not very well written and can cause a lot of junk data if unattended.",
+        "catalan": "\n\n最適化されたプログラム及びツールは\nジャンクデータの発生が少ないが、\n一般人が使うツールは精度が低く、\n特に放置されたプログラムはジャンク\nデータを大量に発生する場合がある。"
+    },
+    "intro_7": {
+        "english": "Due to the skill involved, Technicians are relatively high in demand.",
+        "catalan": "そのため、\nコードのスペシャリストである\nTechnicianの需要は高いのである。"
+    },
+    "intro_8": {
+        "english": [
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "Recently, a small Technician group called ",
+            [
+                0.42745098039216,
+                0.76078431372549,
+                0.7921568627451
+            ],
+            "Blue Revolver",
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            " has been on the rise with their high end tools known as ",
+            [
+                0.85490196078431,
+                0.83137254901961,
+                0.36862745098039
+            ],
+            "\"Devices\"",
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "."
+        ],
+        "catalan": [
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "最近では、",
+            [
+                0.42745098039216,
+                0.76078431372549,
+                0.7921568627451
+            ],
+            "「Blue Revolver」",
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "と呼ばれる\n小さなTechnicianグループは、\n彼らの用いる超高性能ツールである\n",
+            [
+                0.85490196078431,
+                0.83137254901961,
+                0.36862745098039
+            ],
+            "\"デバイス\"",
+            [
+                0.87058823529412,
+                0.93333333333333,
+                0.83921568627451
+            ],
+            "と共に知名度を上げいた。"
+        ]
+    },
+    "intro_9": {
+        "english": "These magical remote controls can channel complex, dynamic AI scripts into slave machines.",
+        "catalan": "リモートコントローラーである\nデバイスは、 スレーブマシンのAIに\n複雑な命令を送ることができるのだ。"
+    },
+    "intro_timings": {
+        "english": [
+            4,
+            5.5,
+            5.5,
+            7.5,
+            4.5,
+            5.5,
+            4,
+            4.5,
+            3.5,
+            4,
+            3.5,
+            4,
+            3.5,
+            3.5
+        ],
+        "catalan": [
+            4,
+            5.5,
+            7.5,
+            7.5,
+            5.5,
+            7.5,
+            4.4,
+            5,
+            4,
+            4,
+            4,
+            4,
+            3.5,
+            3.5
+        ]
+    },
+    "leaderboard_ask_retry": {
+        "english": "Retry?",
+        "catalan": "もう一度投稿する?"
+    },
+    "leaderboard_ask_submit": {
+        "english": "Submit to leaderboard?",
+        "catalan": "リーダーボードに投稿する?"
+    },
+    "leaderboard_submit_success": {
+        "english": "Successfully submitted.",
+        "catalan": "アップロード完了!"
+    },
+    "leaderboard_submitting": {
+        "english": "Submitting...",
+        "catalan": "アップロード中…"
+    },
+    "leaderboards_download_replay": {
+        "english": "Download replay?",
+        "catalan": "このリプレイをダウンロードする?"
+    },
+    "leaderboards_filter_friends": {
+        "english": "Friends",
+        "catalan": "友達"
+    },
+    "leaderboards_filter_global": {
+        "english": "Global",
+        "catalan": "グローバル"
+    },
+    "leaderboards_filter_me": {
+        "english": "My Score",
+        "catalan": "  マイスコア"
+    },
+    "leaderboards_finished_downloading_replay": {
+        "english": "Finished downloading replay. You can find it in the Replays menu.",
+        "catalan": "ダウンロード完了。\nリプレイメニューに保存しました。"
+    },
+    "mae_ending_1": {
+        "english": "MAE: What's going on? Why won't my Device respond?",
+        "catalan": "MAE「どうして? なんでアタシの\nデバイスが応答しないの?」"
+    },
+    "mae_ending_10": {
+        "english": "???: Shut up! That's not what she's saying at all!",
+        "catalan": "？「黙れ! 彼女の言ってることが\nすべてじゃないぞ!」"
+    },
+    "mae_ending_11": {
+        "english": "MAE: Oof!",
+        "catalan": "MAE「キャア!」"
+    },
+    "mae_ending_12": {
+        "english": "VAL: This is about safety! We didn't fly all the way out here just to step on your hobbies. What part of that do you not understand?!",
+        "catalan": "VAL「これは命に関わる問題だ!\nおまえの\"趣味\"に付き合わされた\nおかげで私たちは脱出することが\nできなかった! そんな簡単なことも\nわかんないのか!」"
+    },
+    "mae_ending_13": {
+        "english": "MAE: ... ... ...",
+        "catalan": "MAE「…。」"
+    },
+    "mae_ending_14": {
+        "english": "MAE: I... I didn't mean to hurt anybody...",
+        "catalan": "MAE「私は別に…だれかを傷つける\nつもりなんてなかったもん…」"
+    },
+    "mae_ending_15": {
+        "english": "DEE: Val, that's enough. Mae, if you're willing to listen, then I can teach you a few things about building efficiently so you don't make the same mistake twice.",
+        "catalan": "DEE「VAL、もう十分よ。 …MAE、\nもしあなたが私の言うことに耳を\n傾ける気があるのならだけど、\n私はあなたが二度と同じ過ちを\n起こさないよう、 プログラム構築に\nついて指導をしてあげられるわ」"
+    },
+    "mae_ending_16": {
+        "english": "DEE: You just have to promise us that you'll stop living recklessly like this and obey the law from now on.",
+        "catalan": "DEE「ただし\n\"今回みたいな無茶をしないこと\"、\n\"法に従うこと\"\nを今ここで私たちと約束しなさい」"
+    },
+    "mae_ending_17": {
+        "english": "Despite Dee's assistance, Mae eventually gave up on ambitious building projects and instead decided to pursue life as a freelance designer for Technicians.",
+        "catalan": "(その後――DEEの指導にも\nかかわらず、 最終的にMAEは\nデバイスの開発プロジェクト\nという野望を諦め、 Technician向けの\nフリーランスデザイナーとして\nやっていくのであった――)"
+    },
+    "mae_ending_18": {
+        "english": "MAE: Come on Dee, it's not like your lessons have gone to waste... You just helped me realize that it's easier to let other people do the dirty work for me!",
+        "catalan": "MAE「まあまあDEE。 アンタの指導が\n無駄になったわけじゃないのよ…。\nただアンタの指導を受けて\n気づいたのよ、 汚れ仕事は\n他人にさせたほうが簡単だってね!」"
+    },
+    "mae_ending_19": {
+        "english": "VAL: That's one way of putting it.",
+        "catalan": "VAL「まあ、 これもひとつの\nおさまり方じゃない?」"
+    },
+    "mae_ending_2": {
+        "english": "DEE (sound only): That's not a real Device. You may act like a creative genius, but you clearly lack the ability to actually build these things.",
+        "catalan": "DEE「それが本物のデバイス\nじゃないからよ。 あなた、 自分を\n天才だと過信してるようだけど、\n本物をつくるには明らかに\n実力が足りてないわ」"
+    },
+    "mae_ending_20": {
+        "english": "DEE: I've never met anyone so stubborn in my life...",
+        "catalan": "DEE「私、 こんな懲りない奴に\n今まで会ったことないわ…」"
+    },
+    "mae_ending_21": {
+        "english": "END",
+        "catalan": "END"
+    },
+    "mae_ending_3": {
+        "english": "DEE (sound only): I'm sure our other members have told you many times before, but attempting to create something of this caliber without consent and proper supervision is against the law.",
+        "catalan": "DEE「さっきから私の仲間が\n何回も言ったけど、 この手の物を\n適切な監督なしに制作するのは\n法律違反よ」"
+    },
+    "mae_ending_4": {
+        "english": "MAE: Well, what do you want from me! I don't want to work with other people, and I sure don't like strangers telling me what I can and can't do!",
+        "catalan": "MAE「じゃあアタシをどうしたいって\nのよ! 私は他人と協力なんて\nしたくない! 私のやってることに\n指図する奴は大嫌い!」"
+    },
+    "mae_ending_5": {
+        "english": "DEE: Mae, this isn't something you can afford to be selfish about.",
+        "catalan": "DEE「MAE、 これはあなたのワガママが\n通せるものじゃなくってよ」"
+    },
+    "mae_ending_6": {
+        "english": "DEE: Look around you! There's nothing normal about the environment or your Device's condition.",
+        "catalan": "DEE「周りを見てみなさい!\nこの環境、 あなたのデバイスの状態、\nなにもかも異常だらけなのを!」"
+    },
+    "mae_ending_7": {
+        "english": "DEE: More importantly, the result of your carelessness was putting everyone's lives at risk; we had no choice but to do something.",
+        "catalan": "DEE「特に重大だったのが、\nあなたの不注意が皆の命を危険に\nさらしたこと。 私たちが手を\n下さなくちゃならなくなったのよ」"
+    },
+    "mae_ending_8": {
+        "english": "MAE: So what? Are you telling me I should just stop building things because I'm not good at it?",
+        "catalan": "MAE「だからなに? 私がヘタクソ\nだから開発をやめろって??」"
+    },
+    "mae_ending_9": {
+        "english": "MAE: You're insane! Your whole team is crazy!",
+        "catalan": "MAE「この大馬鹿者! あなたの\nチームはまるごと狂ってるわ!」"
+    },
+    "mae_ending_timings": {
+        "english": [
+            3,
+            5,
+            6,
+            5,
+            3,
+            3.5,
+            4,
+            3.5,
+            3.5,
+            3,
+            2.5,
+            4.5,
+            2,
+            3.5,
+            5,
+            4,
+            6,
+            5,
+            3,
+            3.5,
+            8
+        ],
+        "catalan": [
+            3,
+            5,
+            6,
+            5,
+            3,
+            3.5,
+            4,
+            3.5,
+            3.5,
+            3,
+            2.5,
+            4.5,
+            2,
+            4,
+            5,
+            4,
+            6,
+            5.5,
+            3,
+            3.5,
+            8
+        ]
+    },
+    "mainmenu_extras": {
+        "english": "Extras",
+        "catalan": "<noloc>"
+    },
+    "mainmenu_highscores": {
+        "english": "Highscores",
+        "catalan": "<noloc>"
+    },
+    "mainmenu_missions": {
+        "english": "Missions",
+        "catalan": "<noloc>"
+    },
+    "mainmenu_options": {
+        "english": "Options",
+        "catalan": "<noloc>"
+    },
+    "mainmenu_play": {
+        "english": "Play",
+        "catalan": "<noloc>"
+    },
+    "mainmenu_quit": {
+        "english": "Quit",
+        "catalan": "<noloc>"
+    },
+    "mainmenu_stageselect": {
+        "english": "Stage Select",
+        "catalan": "<noloc>"
+    },
+    "mainmenu_unlocks": {
+        "english": "Unlocks",
+        "catalan": "<noloc>"
+    },
+    "mainmenu_xmode": {
+        "doubleaction": true,
+        "english": "Play XP-Mode",
+        "catalan": "<noloc>"
+    },
+    "medal_goal_clear": {
+        "doubleaction": true,
+        "english": "Clear the game!",
+        "catalan": "クリアしてみよう!"
+    },
+    "medal_goal_clear_parallel": {
+        "doubleaction": true,
+        "english": "Clear on Parallel!",
+        "catalan": "パラレルモードをクリアしてみよう!"
+    },
+    "medal_goal_complete": {
+        "doubleaction": true,
+        "english": "All goals achieved!",
+        "catalan": "全勲章獲得済み!"
+    },
+    "medal_goal_score_target": {
+        "doubleaction": true,
+        "english": "Score %s and clear!",
+        "catalan": "%s点以上でクリアしてみよう!"
+    },
+    "menu_extras_breakguide": {
+        "english": "Break Guide",
+        "catalan": "BREAKガイド"
+    },
+    "menu_extras_completion": {
+        "doubleaction": true,
+        "english": "Completion Rate",
+        "catalan": "達成率"
+    },
+    "menu_extras_completion_clears": {
+        "doubleaction": true,
+        "english": "Clear Medals",
+        "catalan": "クリア勲章獲得率"
+    },
+    "menu_extras_completion_mission_clears": {
+        "doubleaction": true,
+        "english": "Mission Clears",
+        "catalan": "ミッションクリア率"
+    },
+    "menu_extras_completion_mission_medals": {
+        "doubleaction": true,
+        "english": "Mission Medals",
+        "catalan": "ミッション勲章獲得率"
+    },
+    "menu_extras_completion_parallel_clears": {
+        "doubleaction": true,
+        "english": "Parallel Clear Medals",
+        "catalan": "パラレルモードクリア率"
+    },
+    "menu_extras_completion_score_medals": {
+        "doubleaction": true,
+        "english": "Score Medals",
+        "catalan": "スコア勲章獲得率"
+    },
+    "menu_extras_completion_shop_unlocks": {
+        "doubleaction": true,
+        "english": "Shop Unlocks",
+        "catalan": "ショップ項目解除率"
+    },
+    "menu_extras_completion_xmode_clears": {
+        "doubleaction": true,
+        "english": "XP-Mode Medals",
+        "catalan": "XPモード勲章獲得率"
+    },
+    "menu_extras_credits": {
+        "english": "Credits",
+        "catalan": "スタッフロール"
+    },
+    "menu_extras_credits_parallel": {
+        "english": "Credits (Parallel)",
+        "catalan": "スタッフロール (パラレル)"
+    },
+    "menu_extras_cutscenes": {
+        "doubleaction": true,
+        "english": "Cutscenes",
+        "catalan": "ムービー"
+    },
+    "menu_extras_dee_ending": {
+        "doubleaction": true,
+        "english": "Ending (Dee)",
+        "catalan": "エンディング (DEE)"
+    },
+    "menu_extras_gallery": {
+        "english": "Gallery",
+        "catalan": "ギャラリー"
+    },
+    "menu_extras_highscores": {
+        "english": "Highscores",
+        "catalan": "ハイスコア"
+    },
+    "menu_extras_intro": {
+        "english": "Intro",
+        "catalan": "イントロ"
+    },
+    "menu_extras_leaderboards": {
+        "english": "Leaderboards",
+        "catalan": "リーダーボード"
+    },
+    "menu_extras_mae_ending": {
+        "english": "Ending (Mae)",
+        "catalan": "エンディング (MAE)"
+    },
+    "menu_extras_musicroom": {
+        "english": "Music Room",
+        "catalan": "BGMルーム"
+    },
+    "menu_extras_replays": {
+        "english": "Replays",
+        "catalan": "リプレイ"
+    },
+    "menu_extras_tutorial_basics": {
+        "doubleaction": true,
+        "english": "Tutorial (Basics)",
+        "catalan": "チュートリアル (基本)"
+    },
+    "menu_extras_tutorial_hyper": {
+        "doubleaction": true,
+        "english": "Tutorial (Hyper)",
+        "catalan": "チュートリアル (ハイパー)"
+    },
+    "menu_extras_tutorial_scoring": {
+        "doubleaction": true,
+        "english": "Tutorial (Scoring)",
+        "catalan": "チュートリアル (スコア稼ぎ)"
+    },
+    "menu_extras_tutorial_xmode": {
+        "doubleaction": true,
+        "english": "Tutorial (XP-Mode)",
+        "catalan": "チュートリアル (XPモード)"
+    },
+    "menu_extras_tutorials": {
+        "doubleaction": true,
+        "english": "Tutorials",
+        "catalan": "チュートリアル"
+    },
+    "menu_extras_val_ending": {
+        "english": "Ending (Val)",
+        "catalan": "エンディング (VAL)"
+    },
+    "menu_extras_xmode_ending": {
+        "doubleaction": true,
+        "english": "Ending (XP-Mode)",
+        "catalan": "エンディング (XPモード)"
+    },
+    "menu_gallery_comment_charale": {
+        "english": "Ale",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_chardee": {
+        "english": "Dee",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_chardon": {
+        "english": "Don",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_charira": {
+        "english": "Ira",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_charrum": {
+        "english": "Rum",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_charval": {
+        "english": "Val",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_concept1": {
+        "english": "Scrapped gallery piece",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_concept2": {
+        "english": "Mae's initial design",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_concept3": {
+        "english": "Initial protagonists",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_concept4": {
+        "english": "Initial boss roster",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_extra3": {
+        "english": "Momobako (Announcer / Mae's VA)",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_extra4": {
+        "english": "Nayuki Yuzu (Announcer / Val's VA)",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_promo1": {
+        "english": "For v0.5 release",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_comment_promo4": {
+        "english": "For v0.5 hiscore challenge",
+        "catalan": "<noloc>"
+    },
+    "menu_gallery_credit": {
+        "english": "by %s",
+        "catalan": "<noloc>"
+    },
+    "menu_music_boss": {
+        "english": "Boss",
+        "catalan": "<noloc>"
+    },
+    "menu_music_challenge": {
+        "english": "Special Stage",
+        "catalan": "<noloc>"
+    },
+    "menu_music_ending": {
+        "english": "Ending",
+        "catalan": "<noloc>"
+    },
+    "menu_music_finalboss1": {
+        "english": "Final Boss A",
+        "catalan": "<noloc>"
+    },
+    "menu_music_finalboss2": {
+        "english": "True Boss",
+        "catalan": "<noloc>"
+    },
+    "menu_music_interlude": {
+        "english": "Credits",
+        "catalan": "<noloc>"
+    },
+    "menu_music_nameentry": {
+        "english": "Name Entry",
+        "catalan": "<noloc>"
+    },
+    "menu_music_shipselect": {
+        "english": "Ship Select",
+        "catalan": "<noloc>"
+    },
+    "menu_music_stage1": {
+        "english": "Stage 1",
+        "catalan": "<noloc>"
+    },
+    "menu_music_stage2": {
+        "english": "Stage 2",
+        "catalan": "<noloc>"
+    },
+    "menu_music_stage3": {
+        "english": "Stage 3",
+        "catalan": "<noloc>"
+    },
+    "menu_music_stage4": {
+        "english": "Stage 4",
+        "catalan": "<noloc>"
+    },
+    "menu_music_stage5": {
+        "english": "Stage 5",
+        "catalan": "<noloc>"
+    },
+    "menu_music_stagecomplete": {
+        "english": "Complete",
+        "catalan": "<noloc>"
+    },
+    "menu_music_title": {
+        "english": "Title",
+        "catalan": "<noloc>"
+    },
+    "menu_options_aghast": {
+        "english": "Aghast",
+        "catalan": "<noloc>"
+    },
+    "menu_options_akinola": {
+        "english": "Akinola",
+        "catalan": "<noloc>"
+    },
+    "menu_options_all_controllers": {
+        "english": "Any",
+        "catalan": "なんでも"
+    },
+    "menu_options_ammo": {
+        "english": "Ammo",
+        "catalan": "弾薬"
+    },
+    "menu_options_announcer": {
+        "english": "Announcer",
+        "catalan": "アナウンサー"
+    },
+    "menu_options_announcervolume": {
+        "english": "Announcer Volume",
+        "catalan": "アナウンサー音量"
+    },
+    "menu_options_apply_display": {
+        "doubleaction": true,
+        "english": "Apply Video Settings",
+        "catalan": "グラフィック設定を適用する"
+    },
+    "menu_options_aspectratio": {
+        "english": "Aspect Ratio",
+        "catalan": "アスペクト比"
+    },
+    "menu_options_audio": {
+        "english": "Audio",
+        "catalan": "サウンド"
+    },
+    "menu_options_axis": {
+        "english": "Axis %d",
+        "catalan": "<noloc>"
+    },
+    "menu_options_backgroundbrightness": {
+        "doubleaction": true,
+        "english": "Background Brightness",
+        "catalan": "背景の明るさ"
+    },
+    "menu_options_backgroundsaturation": {
+        "doubleaction": true,
+        "english": "Background Saturation",
+        "catalan": "背景の彩度"
+    },
+    "menu_options_bluephoenix": {
+        "english": "Blue Phoenix",
+        "catalan": "<noloc>"
+    },
+    "menu_options_bomb": {
+        "english": "Bomb",
+        "catalan": "ボム"
+    },
+    "menu_options_borderless": {
+        "english": "Borderless",
+        "catalan": "ボーダーなし"
+    },
+    "menu_options_bosstheme": {
+        "english": "Boss",
+        "catalan": "<noloc>"
+    },
+    "menu_options_bulletcolors": {
+        "doubleaction": true,
+        "english": "Bullet Colors",
+        "catalan": "弾カラー"
+    },
+    "menu_options_bulletcolors_alternate": {
+        "doubleaction": true,
+        "english": "Alternate",
+        "catalan": "カラーB"
+    },
+    "menu_options_bulletcolors_custom": {
+        "doubleaction": true,
+        "english": "Custom",
+        "catalan": "カスタム"
+    },
+    "menu_options_bulletcolors_custom1blue": {
+        "doubleaction": true,
+        "english": "Color 1 Blue",
+        "catalan": "色1 (青)"
+    },
+    "menu_options_bulletcolors_custom1green": {
+        "doubleaction": true,
+        "english": "Color 1 Green",
+        "catalan": "色1 (緑)"
+    },
+    "menu_options_bulletcolors_custom1red": {
+        "doubleaction": true,
+        "english": "Color 1 Red",
+        "catalan": "色1 (赤)"
+    },
+    "menu_options_bulletcolors_custom2blue": {
+        "doubleaction": true,
+        "english": "Color 2 Blue",
+        "catalan": "色2 (青)"
+    },
+    "menu_options_bulletcolors_custom2green": {
+        "doubleaction": true,
+        "english": "Color 2 Green",
+        "catalan": "色2 (緑)"
+    },
+    "menu_options_bulletcolors_custom2red": {
+        "doubleaction": true,
+        "english": "Color 2 Red",
+        "catalan": "色2 (赤)"
+    },
+    "menu_options_bulletcolors_original": {
+        "doubleaction": true,
+        "english": "Original",
+        "catalan": "カラーA"
+    },
+    "menu_options_bulletglow": {
+        "doubleaction": true,
+        "english": "Bullet Glow",
+        "catalan": "弾の周りを光らせる"
+    },
+    "menu_options_button": {
+        "english": "Button %d",
+        "catalan": "<noloc>"
+    },
+    "menu_options_cheats": {
+        "doubleaction": true,
+        "english": "Cheats",
+        "catalan": "チート"
+    },
+    "menu_options_clearshot": {
+        "doubleaction": true,
+        "english": "Transparent Player Bullets",
+        "catalan": "自機の弾を半透明にする"
+    },
+    "menu_options_clockwise": {
+        "english": "Clockwise",
+        "catalan": "右回り"
+    },
+    "menu_options_confirm": {
+        "english": "Confirm",
+        "catalan": "OK"
+    },
+    "menu_options_controller": {
+        "english": "Joypad",
+        "catalan": "ゲームパッド"
+    },
+    "menu_options_counterclockwise": {
+        "english": "Counter-Clockwise",
+        "catalan": "左回り"
+    },
+    "menu_options_credits": {
+        "english": "Credits",
+        "catalan": "<noloc>"
+    },
+    "menu_options_credits_doubleaction": {
+        "doubleaction": true,
+        "english": "By Hagane & Exemia",
+        "catalan": "<noloc>"
+    },
+    "menu_options_credits_original": {
+        "doubleaction": true,
+        "english": "By Qygen",
+        "catalan": "<noloc>"
+    },
+    "menu_options_display": {
+        "english": "Display",
+        "catalan": "ディスプレイ"
+    },
+    "menu_options_doubleaction": {
+        "english": "Double Action",
+        "catalan": "<noloc>"
+    },
+    "menu_options_down": {
+        "english": "Down",
+        "catalan": "<noloc>"
+    },
+    "menu_options_downleft": {
+        "english": "Down-Left",
+        "catalan": "<noloc>"
+    },
+    "menu_options_downright": {
+        "english": "Down-Right",
+        "catalan": "<noloc>"
+    },
+    "menu_options_exemia": {
+        "english": "Exemia",
+        "catalan": "<noloc>"
+    },
+    "menu_options_exemia_maddrift": {
+        "english": "Exemia+MadDrift",
+        "catalan": "<noloc>"
+    },
+    "menu_options_filter": {
+        "doubleaction": true,
+        "english": "Filter",
+        "catalan": "フィルター"
+    },
+    "menu_options_fire": {
+        "english": "Fire",
+        "catalan": "ショット"
+    },
+    "menu_options_flashfrequency": {
+        "doubleaction": true,
+        "english": "Damage Flash Frequency",
+        "catalan": "敵ダメージ時の点滅スピード"
+    },
+    "menu_options_framerate": {
+        "doubleaction": true,
+        "english": "Framerate",
+        "catalan": "フレームレート"
+    },
+    "menu_options_freeplay": {
+        "english": "Free Play",
+        "catalan": "フリープレイ"
+    },
+    "menu_options_fullscreen": {
+        "english": "Fullscreen",
+        "catalan": "フルスクリーン"
+    },
+    "menu_options_gadgets": {
+        "doubleaction": true,
+        "english": "Gadgets",
+        "catalan": "ガジェット"
+    },
+    "menu_options_gadgets_message": {
+        "doubleaction": true,
+        "english": "This feature is intended for large, high-resolution displays.",
+        "catalan": "注: 画面が小さい場合、\nガジェット内の情報が鮮明に\n表示されない場合があります。"
+    },
+    "menu_options_gameplay": {
+        "english": "Gameplay",
+        "catalan": "Gameplay"
+    },
+    "menu_options_graphics": {
+        "english": "Graphics",
+        "catalan": "Gràfics"
+    },
+    "menu_options_graphicsmode": {
+        "english": "Mode",
+        "catalan": "Mode de joc"
+    },
+    "menu_options_hat": {
+        "english": "Hat %d",
+        "catalan": "<noloc>"
+    },
+    "menu_options_hyphen": {
+        "english": "Hyphen",
+        "catalan": "<noloc>"
+    },
+    "menu_options_ikaruga": {
+        "english": "ikaruga_nex",
+        "catalan": "<noloc>"
+    },
+    "menu_options_input": {
+        "english": "Input",
+        "catalan": "Controls"
+    },
+    "menu_options_insane": {
+        "doubleaction": true,
+        "english": "Insane!",
+        "catalan": "Malaltís!"
+    },
+    "menu_options_language": {
+        "english": "Language",
+        "catalan": "Idioma"
+    },
+    "menu_options_lastbosstheme": {
+        "english": "Last Boss",
+        "catalan": "<noloc>"
+    },
+    "menu_options_left": {
+        "english": "Left",
+        "catalan": "<noloc>"
+    },
+    "menu_options_legibility": {
+        "doubleaction": true,
+        "english": "Legibility",
+        "catalan": "Llegibilitat"
+    },
+    "menu_options_mastervolume": {
+        "english": "Master Volume",
+        "catalan": "マスター音量"
+    },
+    "menu_options_menutheme": {
+        "english": "Menu",
+        "catalan": "<noloc>"
+    },
+    "menu_options_mitomoro": {
+        "english": "Mitomoro",
+        "catalan": "<noloc>"
+    },
+    "menu_options_mixwallpaper": {
+        "doubleaction": true,
+        "english": "Mix",
+        "catalan": "Mix"
+    },
+    "menu_options_momobako": {
+        "english": "Mae (CV: Momobako)",
+        "catalan": "MAE (CV:桃箱)"
+    },
+    "menu_options_musicvolume": {
+        "english": "Music Volume",
+        "catalan": "Volum de la música"
+    },
+    "menu_options_nameentrytheme": {
+        "english": "Name Entry",
+        "catalan": "<noloc>"
+    },
+    "menu_options_nativeratio": {
+        "english": "3:4 (Native)",
+        "catalan": "<noloc>"
+    },
+    "menu_options_nayuki": {
+        "english": "Val (CV: Nayuki Yuzu)",
+        "catalan": "VAL (CV:ナユキユズ)"
+    },
+    "menu_options_no_controller": {
+        "english": "None",
+        "catalan": "Res"
+    },
+    "menu_options_noannouncer": {
+        "english": "None",
+        "catalan": "Res"
+    },
+    "menu_options_norotation": {
+        "english": "None",
+        "catalan": "Res"
+    },
+    "menu_options_nowallpaper": {
+        "english": "None",
+        "catalan": "Cap"
+    },
+    "menu_options_palettes": {
+        "doubleaction": true,
+        "english": "Palettes",
+        "catalan": "Paletes"
+    },
+    "menu_options_pause": {
+        "english": "Pause",
+        "catalan": "Pausa"
+    },
+    "menu_options_perfect": {
+        "english": "Perfect",
+        "catalan": "Perfecte"
+    },
+    "menu_options_proportionate": {
+        "english": "Proportionate",
+        "catalan": "タイプB"
+    },
+    "menu_options_qygen": {
+        "english": "Original",
+        "catalan": "<noloc>"
+    },
+    "menu_options_rank": {
+        "english": "Rank",
+        "catalan": "ランク"
+    },
+    "menu_options_rapidfire": {
+        "english": "Rapid-Fire",
+        "catalan": "Dispar ràpid"
+    },
+    "menu_options_rebindcontrols": {
+        "english": "Rebind Controls",
+        "catalan": "セット"
+    },
+    "menu_options_reduceflashintensity": {
+        "doubleaction": true,
+        "english": "Reduce Flash Intensity",
+        "catalan": "Reduir la intensitat del flash"
+    },
+    "menu_options_resetachievements": {
+        "doubleaction": true,
+        "english": "Reset Steam achievements",
+        "catalan": "Reiniciar assoliments d'Steam"
+    },
+    "menu_options_resetconfig": {
+        "english": "Reset Config",
+        "catalan": "Reiniciar configuració"
+    },
+    "menu_options_resetcontrols": {
+        "english": "Reset Controls",
+        "catalan": "Reiniciar controls"
+    },
+    "menu_options_resetsavefile": {
+        "english": "Reset Save File",
+        "catalan": "Reiniciar arxius de guardat"
+    },
+    "menu_options_resolution": {
+        "english": "Resolution",
+        "catalan": "Resolució"
+    },
+    "menu_options_right": {
+        "english": "Right",
+        "catalan": "<noloc>"
+    },
+    "menu_options_rotation": {
+        "english": "Rotation",
+        "catalan": "Rotació"
+    },
+    "menu_options_rottking": {
+        "english": "Rottking",
+        "catalan": "<noloc>"
+    },
+    "menu_options_ruleset": {
+        "doubleaction": true,
+        "english": "Ruleset",
+        "catalan": "ゲームルール"
+    },
+    "menu_options_ruleset_classic": {
+        "doubleaction": true,
+        "english": "Classic",
+        "catalan": "Clàssic"
+    },
+    "menu_options_ruleset_classic_desc": {
+        "doubleaction": true,
+        "english": "v1.11 style gameplay. Alters flourish timings, shot power, bomb mechanics, scoring mechanics and more. Not identical to v1.11. Intended for long-time players.",
+        "catalan": "Flourishのタイミングやショット\n威力、ボムや得点の仕様などが\nv1.11に近いものになります。\n(※完全に再現しているわけではなく、 一部の相違点もあります)\n旧バージョンを長く遊んで\nいただいている方向けです。"
+    },
+    "menu_options_ruleset_doubleaction": {
+        "doubleaction": true,
+        "english": "Double Action",
+        "catalan": "<noloc>"
+    },
+    "menu_options_savefile": {
+        "english": "Save File",
+        "catalan": "セーブデータ"
+    },
+    "menu_options_scaling": {
+        "english": "Scaling",
+        "catalan": "拡大縮小"
+    },
+    "menu_options_scoringinfo": {
+        "english": "Scoring Info",
+        "catalan": "スコアデータ"
+    },
+    "menu_options_screen": {
+        "doubleaction": true,
+        "english": "Screen",
+        "catalan": "画面表示"
+    },
+    "menu_options_showfps": {
+        "english": "Show FPS",
+        "catalan": "FPS"
+    },
+    "menu_options_showgadgets": {
+        "doubleaction": true,
+        "english": "Gadgets",
+        "catalan": "ガジェット"
+    },
+    "menu_options_showhitboxes": {
+        "english": "Show Hitboxes",
+        "catalan": "当たり判定を表す"
+    },
+    "menu_options_skipintro": {
+        "english": "Skip Intro",
+        "catalan": "イントロスキップ"
+    },
+    "menu_options_soundtrack": {
+        "english": "Soundtrack",
+        "catalan": "サウンドトラック"
+    },
+    "menu_options_soundvolume": {
+        "english": "Sound Volume",
+        "catalan": "サウンド"
+    },
+    "menu_options_special": {
+        "english": "Special",
+        "catalan": "スペシャル"
+    },
+    "menu_options_specialstagetheme": {
+        "english": "Special",
+        "catalan": "<noloc>"
+    },
+    "menu_options_st1theme": {
+        "english": "Stage 1",
+        "catalan": "<noloc>"
+    },
+    "menu_options_st2theme": {
+        "english": "Stage 2",
+        "catalan": "<noloc>"
+    },
+    "menu_options_st3theme": {
+        "english": "Stage 3",
+        "catalan": "<noloc>"
+    },
+    "menu_options_st4theme": {
+        "english": "Stage 4",
+        "catalan": "<noloc>"
+    },
+    "menu_options_st5theme": {
+        "english": "Stage 5",
+        "catalan": "<noloc>"
+    },
+    "menu_options_terranaut": {
+        "english": "Terranaut",
+        "catalan": "<noloc>"
+    },
+    "menu_options_topbar_extend": {
+        "doubleaction": true,
+        "english": "Extend",
+        "catalan": "エクステンド"
+    },
+    "menu_options_topbardisplay": {
+        "english": "Top Bar Display",
+        "catalan": "上のゲージ"
+    },
+    "menu_options_transparentscoreitems": {
+        "doubleaction": true,
+        "english": "Transparent Score Items",
+        "catalan": "得点アイテムを半透明にする"
+    },
+    "menu_options_unlockeverything": {
+        "doubleaction": true,
+        "english": "Unlock Everything",
+        "catalan": "未解除要素をすべて解除する"
+    },
+    "menu_options_up": {
+        "english": "Up",
+        "catalan": "<noloc>"
+    },
+    "menu_options_upleft": {
+        "english": "Up-Left",
+        "catalan": "<noloc>"
+    },
+    "menu_options_upright": {
+        "english": "Up-Right",
+        "catalan": "<noloc>"
+    },
+    "menu_options_vsync": {
+        "english": "V-Sync",
+        "catalan": "V-SYNC"
+    },
+    "menu_options_wallpaper": {
+        "english": "Wallpaper",
+        "catalan": "壁紙"
+    },
+    "menu_options_wallpapermix1": {
+        "doubleaction": true,
+        "english": "Wallpaper Mix 1",
+        "catalan": "壁紙組み合わせ: 左"
+    },
+    "menu_options_wallpapermix2": {
+        "doubleaction": true,
+        "english": "Wallpaper Mix 2",
+        "catalan": "壁紙組み合わせ: 右"
+    },
+    "menu_options_windowed": {
+        "english": "Windowed",
+        "catalan": "ウィンドウ"
+    },
+    "menu_replay_delete": {
+        "english": "Delete Replay",
+        "catalan": "リプレイを消す"
+    },
+    "menu_replay_noreplays": {
+        "english": "No replays found.",
+        "catalan": "リプレイが見つかりません。"
+    },
+    "menu_stageselect_aftermidboss": {
+        "english": "After Midboss",
+        "catalan": "中ボス後"
+    },
+    "menu_stageselect_bombs": {
+        "english": "Bombs",
+        "catalan": "ボムストック"
+    },
+    "menu_stageselect_boss": {
+        "english": "Boss",
+        "catalan": "ボス"
+    },
+    "menu_stageselect_character": {
+        "english": "Character",
+        "catalan": "キャラ"
+    },
+    "menu_stageselect_cluster": {
+        "english": "Cluster Missile",
+        "catalan": "CLUSTER MISSILE"
+    },
+    "menu_stageselect_dee": {
+        "doubleaction": true,
+        "english": "Dee",
+        "catalan": "DEE"
+    },
+    "menu_stageselect_descent": {
+        "doubleaction": true,
+        "english": "Descent",
+        "catalan": "ジャンクゾーン"
+    },
+    "menu_stageselect_difficulty": {
+        "english": "Mode",
+        "catalan": "モード"
+    },
+    "menu_stageselect_freezerank": {
+        "english": "Freeze Rank",
+        "catalan": "ホールドランク"
+    },
+    "menu_stageselect_hypermode": {
+        "english": "Hyper",
+        "catalan": "ハイパー"
+    },
+    "menu_stageselect_lancer": {
+        "english": "Plasma Lancer",
+        "catalan": "PLASMA LANCER"
+    },
+    "menu_stageselect_laser": {
+        "english": "Hyper Laser",
+        "catalan": "HYPER LASER"
+    },
+    "menu_stageselect_lightning": {
+        "english": "Arc Caster",
+        "catalan": "ARC CASTER"
+    },
+    "menu_stageselect_lives": {
+        "english": "Lives",
+        "catalan": "残機数"
+    },
+    "menu_stageselect_mae": {
+        "english": "Mae",
+        "catalan": "MAE"
+    },
+    "menu_stageselect_midboss": {
+        "english": "Midboss",
+        "catalan": "中ボス"
+    },
+    "menu_stageselect_midboss1": {
+        "english": "Midboss 1",
+        "catalan": "中ボス1"
+    },
+    "menu_stageselect_midboss2": {
+        "english": "Midboss 2",
+        "catalan": "中ボス2"
+    },
+    "menu_stageselect_midboss3": {
+        "english": "Midboss 3",
+        "catalan": "中ボス3"
+    },
+    "menu_stageselect_midboss4": {
+        "english": "Midboss 4",
+        "catalan": "中ボス4"
+    },
+    "menu_stageselect_normalmode": {
+        "english": "Normal",
+        "catalan": "ノーマル"
+    },
+    "menu_stageselect_parallelmode": {
+        "english": "Parallel",
+        "catalan": "パラレル"
+    },
+    "menu_stageselect_pierce": {
+        "doubleaction": true,
+        "english": "Pierce Lancer",
+        "catalan": "PIERCE LANCER"
+    },
+    "menu_stageselect_rank": {
+        "english": "Rank",
+        "catalan": "ランク"
+    },
+    "menu_stageselect_salvo": {
+        "doubleaction": true,
+        "english": "Fractal Salvo",
+        "catalan": "FRACTAL SALVO"
+    },
+    "menu_stageselect_shield": {
+        "doubleaction": true,
+        "english": "Gun Buckler",
+        "catalan": "GUN BUCKLER"
+    },
+    "menu_stageselect_special": {
+        "english": "Special",
+        "catalan": "スペシャル"
+    },
+    "menu_stageselect_stage": {
+        "english": "Stage",
+        "catalan": "ステージ"
+    },
+    "menu_stageselect_stage1": {
+        "english": "Stage 1 [MOUNTAIN]",
+        "catalan": "1面【山】"
+    },
+    "menu_stageselect_stage2": {
+        "english": "Stage 2 [HARBOUR]",
+        "catalan": "2面【港】"
+    },
+    "menu_stageselect_stage3": {
+        "english": "Stage 3 [CLOUD]",
+        "catalan": "3面【空】"
+    },
+    "menu_stageselect_stage4": {
+        "english": "Stage 4 [BASE]",
+        "catalan": "4面【門】"
+    },
+    "menu_stageselect_stage5": {
+        "english": "Stage 5 [DREAM]",
+        "catalan": "5面【夢】"
+    },
+    "menu_stageselect_stagestart": {
+        "english": "Start",
+        "catalan": "最初"
+    },
+    "menu_stageselect_start": {
+        "english": "Start",
+        "catalan": "<noloc>"
+    },
+    "menu_stageselect_startfrom": {
+        "english": "Start from",
+        "catalan": "エリア"
+    },
+    "menu_stageselect_stasis": {
+        "english": "Stasis Field",
+        "catalan": "STASIS FIELD"
+    },
+    "menu_stageselect_truelastboss": {
+        "english": "True Last Boss",
+        "catalan": "真ボス"
+    },
+    "menu_stageselect_val": {
+        "english": "Val",
+        "catalan": "VAL"
+    },
+    "menu_stageselect_vortex": {
+        "english": "Vortex Barrier",
+        "catalan": "VORTEX BARRIER"
+    },
+    "menu_stageselect_xmode": {
+        "doubleaction": true,
+        "english": "XP-Mode",
+        "catalan": "XPモード"
+    },
+    "menu_unlocks_filter_description": {
+        "doubleaction": true,
+        "english": "A \"%s\" screen filter.",
+        "catalan": "画面フィルター\n「%s」。"
+    },
+    "menu_unlocks_gallery": {
+        "english": "Gallery\nArt",
+        "catalan": "<noloc>"
+    },
+    "menu_unlocks_gallery_generic_description": {
+        "doubleaction": true,
+        "english": "An art piece by %s. Can be used as game wallpaper.",
+        "catalan": "%s作。\n壁紙として使えます。"
+    },
+    "menu_unlocks_need_adjacent": {
+        "doubleaction": true,
+        "english": "You need an adjacent item first...",
+        "catalan": "解除済み項目に\n隣接する項目のみ\n解除できます。"
+    },
+    "menu_unlocks_palette": {
+        "english": "Device\nPalette",
+        "catalan": "<noloc>"
+    },
+    "menu_unlocks_palette_dee_description": {
+        "doubleaction": true,
+        "english": "An alternate palette for Dee's device.",
+        "catalan": "EPSILON-Gの\nEXカラー。"
+    },
+    "menu_unlocks_palette_mae_description": {
+        "english": "An alternate palette for Mae's device.",
+        "catalan": "MAPLEBERRYの\nEXカラー。"
+    },
+    "menu_unlocks_palette_val_description": {
+        "english": "An alternate palette for Val's device.",
+        "catalan": "URAYASUMIの\nEXカラー。"
+    },
+    "menu_unlocks_presstolisten": {
+        "english": "Press RAPID FIRE to listen",
+        "catalan": "BGMを聞くには\nラピッドショットを押す"
+    },
+    "menu_unlocks_remix": {
+        "english": "Remix\nTrack",
+        "catalan": "<noloc>"
+    },
+    "menu_unlocks_remix_10_description": {
+        "english": "A last boss remix, by Aghast.",
+        "catalan": "ラスボスの\nアレンジ曲。\n(Aghast編曲)"
+    },
+    "menu_unlocks_remix_11_description": {
+        "english": "A name entry remix, by Blue Phoenix.",
+        "catalan": "ハイスコア画面の\nアレンジ曲。\n(Blue Phoenix編曲)"
+    },
+    "menu_unlocks_remix_12_description": {
+        "english": "A special stage remix, by Blue Phoenix.",
+        "catalan": "アナザーステージの\nアレンジ曲。\n(Blue Phoenix編曲)"
+    },
+    "menu_unlocks_remix_13_description": {
+        "english": "A credits remix, by Blue Phoenix.",
+        "catalan": "スタッフロールの\nアレンジ曲。\n(Blue Phoenix編曲)"
+    },
+    "menu_unlocks_remix_1_description": {
+        "english": "A menu remix, by Exemia.",
+        "catalan": "メニュー画面の\nアレンジ曲。\n(Exemia編曲)"
+    },
+    "menu_unlocks_remix_2_description": {
+        "english": "A stage 1 remix, by Terranaut.",
+        "catalan": "1面のアレンジ曲。\n(Terranaut編曲)"
+    },
+    "menu_unlocks_remix_3_description": {
+        "english": "A stage 1 remix, by Blue Phoenix.",
+        "catalan": "1面のアレンジ曲。\n(Blue Phoenix編曲)"
+    },
+    "menu_unlocks_remix_4_description": {
+        "english": "A stage 2 remix, by Mitomoro.",
+        "catalan": "2面のアレンジ曲。\n(Mitomoro編曲)"
+    },
+    "menu_unlocks_remix_5_description": {
+        "english": "A stage 2 remix, by Terranaut.",
+        "catalan": "2面のアレンジ曲。\n(Terranaut編曲)"
+    },
+    "menu_unlocks_remix_6_description": {
+        "english": "A stage 3 remix, by Exemia.",
+        "catalan": "3面のアレンジ曲。\n(Exemia編曲)"
+    },
+    "menu_unlocks_remix_7_description": {
+        "english": "A stage 5 remix, by Hyphen.",
+        "catalan": "5面のアレンジ曲。\n(Hyphen編曲)"
+    },
+    "menu_unlocks_remix_8_description": {
+        "english": "A boss remix, by Exemia and MadDrift.",
+        "catalan": "ボスのアレンジ曲。\n(Exemia &\nMadDrift編曲)"
+    },
+    "menu_unlocks_remix_9_description": {
+        "english": "A last boss remix, by ikaruga_nex.",
+        "catalan": "ラスボスの\nアレンジ曲。\n(ikaruga_nex編曲)"
+    },
+    "menu_unlocks_xweapon_description": {
+        "doubleaction": true,
+        "english": "%s. A special weapon, used in XP-Mode. (Unlocks XP-Mode.)",
+        "catalan": "XPモードで使用される\nスペシャルショット\n「%s」。\n(XPモードを\n解除します)"
+    },
+    "mission_base_name": {
+        "doubleaction": true,
+        "english": "Base",
+        "catalan": "<noloc>"
+    },
+    "mission_bossrush_description": {
+        "english": "Difficulty is high. Fight and triumph against every boss!",
+        "catalan": "高難易度で\n全ボスを撃破せよ!"
+    },
+    "mission_bossrush_name": {
+        "english": "Boss Rush",
+        "catalan": "<noloc>"
+    },
+    "mission_breakthrough_description": {
+        "doubleaction": true,
+        "english": "Survive against an infinite advance of enemies. Learn to avoid aimed fire!",
+        "catalan": "無数の敵が前進してくる!\n自機狙い弾を避ける訓練だ!"
+    },
+    "mission_breakthrough_name": {
+        "doubleaction": true,
+        "english": "Breakthrough",
+        "catalan": "<noloc>"
+    },
+    "mission_clear": {
+        "english": "Mission Clear!",
+        "catalan": "<noloc>"
+    },
+    "mission_clear_target": {
+        "doubleaction": true,
+        "english": "Clear & Target Score!",
+        "catalan": "<noloc>"
+    },
+    "mission_cloud_name": {
+        "doubleaction": true,
+        "english": "Cloud",
+        "catalan": "<noloc>"
+    },
+    "mission_deathbullet_description": {
+        "english": "All enemies release bullets when they die. Clear the stage using careful movement!",
+        "catalan": "全ての敵は死ぬ前に撃ち\n返し弾を放ってくる!\nこれに注意して\n1面をクリアせよ!"
+    },
+    "mission_deathbullet_name": {
+        "english": "Death Bullet",
+        "catalan": "<noloc>"
+    },
+    "mission_delphibreaker_name": {
+        "english": "DELPHI",
+        "catalan": "<noloc>"
+    },
+    "mission_dream_name": {
+        "doubleaction": true,
+        "english": "Dream",
+        "catalan": "<noloc>"
+    },
+    "mission_experimentalweapon2_description": {
+        "doubleaction": true,
+        "english": "Your laser converts bullets into score. Your shot replenishes the laser. Time to go crazy!",
+        "catalan": "レーザー発射で敵弾が\n得点アイテムに変化され、\nショット発射でレーザーが\n補充される。\n大暴れしてこい!"
+    },
+    "mission_experimentalweapon2_name": {
+        "doubleaction": true,
+        "english": "X-Weapon 2",
+        "catalan": "<noloc>"
+    },
+    "mission_experimentalweapon_description": {
+        "english": "Your only weapon is a unique special weapon. Ammo replenishes over time. Clear the stage!",
+        "catalan": "君の唯一の武器はこの実験\n段階にある特殊武器だ!\n3面をクリアせよ!"
+    },
+    "mission_experimentalweapon_name": {
+        "english": "X-Weapon",
+        "catalan": "<noloc>"
+    },
+    "mission_generic_boss_description": {
+        "doubleaction": true,
+        "english": "Take out the boss using the set loadout.",
+        "catalan": "決まったデバイスと\nスペシャルショットで\nボスを撃破せよ!"
+    },
+    "mission_generic_stage_description": {
+        "doubleaction": true,
+        "english": "Clear the stage using the set loadout.",
+        "catalan": "決まったデバイスと\nスペシャルショットで\nステージをクリアせよ!"
+    },
+    "mission_harbour_name": {
+        "doubleaction": true,
+        "english": "Harbour",
+        "catalan": "<noloc>"
+    },
+    "mission_haskelbreaker_name": {
+        "english": "HASKEL",
+        "catalan": "<noloc>"
+    },
+    "mission_invisiblebullet_description": {
+        "english": "Bullets fade out as they get closer. Clear the stage and the boss!",
+        "catalan": "敵から放たれた弾幕は\n徐々に消えてゆく!\nこれに注意して\n1面をクリアせよ!"
+    },
+    "mission_invisiblebullet_name": {
+        "english": "Invisible Bullet",
+        "catalan": "<noloc>"
+    },
+    "mission_junkattack_description": {
+        "doubleaction": true,
+        "english": "The stage is full of bullet-filled scrap. Avoid chain reactions! Pick what you destroy carefully!",
+        "catalan": "周りが弾を放つスクラップ\nだらけだ! 連鎖反応を\n起こさないように、\n注意して進め!"
+    },
+    "mission_junkattack_name": {
+        "doubleaction": true,
+        "english": "Scrap Attack",
+        "catalan": "<noloc>"
+    },
+    "mission_lightninground2_description": {
+        "english": "Bullets are fast! Clear the stage!",
+        "catalan": "高難易度で\n4面をクリアせよ!"
+    },
+    "mission_lightninground2_name": {
+        "english": "Lightning Round 2",
+        "catalan": "<noloc>"
+    },
+    "mission_lightninground_description": {
+        "english": "The difficulty is high, and bullets are much faster. Use your bombs - clear the stage and boss!",
+        "catalan": "高難易度で2面をクリアせよ!\n危ない時はボムだ!"
+    },
+    "mission_lightninground_name": {
+        "english": "Lightning Round",
+        "catalan": "<noloc>"
+    },
+    "mission_lunabreaker_name": {
+        "english": "LUNA",
+        "catalan": "<noloc>"
+    },
+    "mission_matador_description": {
+        "english": "A large projectile is constantly following you. Your special weapon can slow it down. Clear the stage!",
+        "catalan": "大きな発射体は、常に君の後\nを追ってくる! スペシャル\nショットを使う事で減速させ\nられるのでこれを上手く使っ\nて2面をクリアせよ!"
+    },
+    "mission_matador_name": {
+        "english": "Matador",
+        "catalan": "<noloc>"
+    },
+    "mission_midbossrush_description": {
+        "english": "Difficulty is high. Take on and defeat all midbosses!",
+        "catalan": "高難易度で\n全中ボスを撃破せよ!"
+    },
+    "mission_midbossrush_name": {
+        "english": "Midboss Rush",
+        "catalan": "<noloc>"
+    },
+    "mission_mountain_name": {
+        "doubleaction": true,
+        "english": "Mountain",
+        "catalan": "<noloc>"
+    },
+    "mission_needclears": {
+        "english": "Clear %d more to access!",
+        "catalan": "ミッションを%d個クリアすると\n解除されます"
+    },
+    "mission_snakerevenge_description": {
+        "doubleaction": true,
+        "english": "An rare enemy returns! How you destroy them affects the difficulty...",
+        "catalan": "珍しいあの敵がやってきた!\n倒し方によって難易度が\n変化するぞ!"
+    },
+    "mission_snakerevenge_name": {
+        "doubleaction": true,
+        "english": "Snake Revenge",
+        "catalan": "<noloc>"
+    },
+    "mission_squibbattle_description": {
+        "doubleaction": true,
+        "english": "Defeat the unique boss while being pursued by an orb!",
+        "catalan": "大きな発射体に\n追われながら、\n特別仕様のボスを\n撃破せよ!"
+    },
+    "mission_squibbattle_name": {
+        "doubleaction": true,
+        "english": "Squib Battle",
+        "catalan": "<noloc>"
+    },
+    "mission_superbomber_description": {
+        "doubleaction": true,
+        "english": "You have no special weapon, but scoring creates bomb items. Go for a high score!",
+        "catalan": "スペシャルショットを使え\nないが、 スコアが上がると\nボムアイテムが発生する!\nハイスコアを狙え!"
+    },
+    "mission_superbomber_name": {
+        "doubleaction": true,
+        "english": "High Explosive",
+        "catalan": "<noloc>"
+    },
+    "mission_target": {
+        "doubleaction": true,
+        "english": "Target score!",
+        "catalan": "<noloc>"
+    },
+    "mission_yasumibreaker_name": {
+        "english": "YASUMI",
+        "catalan": "<noloc>"
+    },
+    "mission_zangyou_description": {
+        "doubleaction": true,
+        "english": "Fight and win against a unique, super-hard stage 3 boss!",
+        "catalan": "3面ボスが大幅に\n強化された!\n高難易度で撃破せよ!"
+    },
+    "mission_zangyou_name": {
+        "doubleaction": true,
+        "english": "Zangyou",
+        "catalan": "<noloc>"
+    },
+    "mission_zealotbreaker_name": {
+        "english": "ZEALOT",
+        "catalan": "<noloc>"
+    },
+    "no": {
+        "english": "No",
+        "catalan": " いいえ"
+    },
+    "off": {
+        "english": "Off",
+        "catalan": "<noloc>"
+    },
+    "on": {
+        "english": "On",
+        "catalan": "<noloc>"
+    },
+    "pattern_1_1": {
+        "english": "FB-12 \"PULPIT\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_1_2": {
+        "english": "CR-19 \"BLUSTER\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_1_3": {
+        "english": "HRX-05 \"PURSUIT\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_1_4": {
+        "english": "FR-10 \"GUTTERSNIPE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_2_1": {
+        "english": "CSD-34 \"FOCUS\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_2_2": {
+        "english": "AR-24 \"MIRAGE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_2_3": {
+        "english": "MR-29 \"HEURISTIC\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_2_4": {
+        "english": "LRX-22 \"NUDGE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_2_5": {
+        "english": "MR-38 \"TYRANT\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_3_1": {
+        "english": "TR-54 \"SIGNATURE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_3_2": {
+        "english": "FBD-48 \"INQUIRY\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_3_3": {
+        "english": "AR-54 \"SPOTLIGHT\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_3_4": {
+        "english": "MB-53 \"WIZARD\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_3_5": {
+        "english": "LB-50 \"RAPID EYE MOVEMENT\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_3_6": {
+        "english": "LRD-57 \"OVERTIME\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_4_1": {
+        "english": "MR-78 \"MUDDLE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_4_2": {
+        "english": "OB-64 \"HANDSHAKE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_4_3": {
+        "english": "ARX-75 \"SLATHER\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_4_4": {
+        "english": "LS-62 \"SUNDER\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_4_5": {
+        "english": "LMR-79 \"MONTE CARLO\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_4_6": {
+        "english": "\"VDM-86\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_1": {
+        "english": "MBX-94 \"BIRDSHOT\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_10": {
+        "english": "ORH-92 \"ZUGZWANG\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_11": {
+        "english": "OSH-80 \"FUSILLADE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_12": {
+        "english": "LBH-94 \"FIANCHETTO\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_13": {
+        "english": "VX-86 \"MARTINET\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_14": {
+        "english": "ARX-100 \"REVOLVER\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_2": {
+        "english": "LBD-85 \"KEYHOLE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_3": {
+        "english": "LBH-90 \"GRIDIRON\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_4": {
+        "english": "MR-82 \"SCRIMMAGE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_5": {
+        "english": "CB-87 \"POUND\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_6": {
+        "english": "MRX-90 \"HOUDINI\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_7": {
+        "english": "LB-88 \"VOODOO\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_8": {
+        "english": "ARX-94 \"MESMERIZE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_5_9": {
+        "english": "LZS-88 \"PRESS\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_squib_1": {
+        "english": "SQB-100 \"GLOW SQUIB\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_squib_2": {
+        "english": "SQB-256 \"VANISHING POINT\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_squib_3": {
+        "english": "SQB-411 \"PALINOPSIA\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_squib_4": {
+        "english": "SQB-639 \"BAD OPTIC\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_squib_5": {
+        "english": "SQB-888 \"CAUSTIC CONSTANT\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_squib_6": {
+        "english": "SQB-1.2e11 \"BRILLIANCE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_tlb_1": {
+        "english": "ECR-180 \"BOMBAST\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_tlb_2": {
+        "english": "EMR-290 \"DIRECTIVE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_tlb_3": {
+        "english": "ELD-560 \"CRUNCH\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_tlb_4": {
+        "english": "\"MDR-720\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_tlb_5": {
+        "english": "TLB-999 \"BLUE REVOLVER\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_zangyou_1": {
+        "english": "DFA-100 \"JULIENNE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_zangyou_2": {
+        "english": "TSX-140 \"RUPTURE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_zangyou_3": {
+        "english": "BGR-180 \"BRUXISM\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_zangyou_4": {
+        "english": "CGS-220 \"EFFUSION\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_zangyou_5": {
+        "english": "AGR-340 \"DEADLINE\"",
+        "catalan": "<noloc>"
+    },
+    "pattern_zangyou_6": {
+        "english": "ZNG-999 \"OVERPRESSURE\"",
+        "catalan": "<noloc>"
+    },
+    "pause_quit": {
+        "english": "Quit",
+        "catalan": "<noloc>"
+    },
+    "pause_restart": {
+        "english": "Restart",
+        "catalan": "<noloc>"
+    },
+    "pause_resume": {
+        "english": "Resume",
+        "catalan": "<noloc>"
+    },
+    "pause_skip": {
+        "english": "Skip",
+        "catalan": "<noloc>"
+    },
+    "pause_title": {
+        "english": "Title",
+        "catalan": "<noloc>"
+    },
+    "perk_better_flourish_extension": {
+        "doubleaction": true,
+        "english": "Better flourish extension",
+        "catalan": "Flourishが継続しやすくなる"
+    },
+    "perk_bomb_damages_all": {
+        "doubleaction": true,
+        "english": "Bombs damage everything",
+        "catalan": "ボムが画面全体の敵にダメージを与える"
+    },
+    "perk_dps": {
+        "doubleaction": true,
+        "english": "Somewhat higher shot damage",
+        "catalan": "ショット威力がやや上昇する"
+    },
+    "perk_easier_extends": {
+        "doubleaction": true,
+        "english": "Easier extends",
+        "catalan": "エクステンドが獲得しやすくなる"
+    },
+    "perk_extra_bombs": {
+        "doubleaction": true,
+        "english": "More bomb drops",
+        "catalan": "ボムアイテムが多く出現する"
+    },
+    "perk_extra_life": {
+        "doubleaction": true,
+        "english": "Start with an extra life",
+        "catalan": "残機数+1で出撃する"
+    },
+    "perk_focused_dps": {
+        "doubleaction": true,
+        "english": "Higher focused shot damage",
+        "catalan": "低速ショットの威力が上昇する"
+    },
+    "perk_free_refills": {
+        "doubleaction": true,
+        "english": "Refill ammo every stage",
+        "catalan": "各ステージ開始時に弾薬が満タンになる"
+    },
+    "perk_larger_shots": {
+        "doubleaction": true,
+        "english": "Larger player shot collision",
+        "catalan": "自機ショットの当たり判定が大きくなる"
+    },
+    "perk_longer_counterbomb": {
+        "doubleaction": true,
+        "english": "Longer counterbomb window",
+        "catalan": "カウンターボムの発動タイミングが長くなる"
+    },
+    "perk_longer_flourish": {
+        "doubleaction": true,
+        "english": "Longer flourish time",
+        "catalan": "Flourishの発動タイミングが長くなる"
+    },
+    "perk_more_bomb_ammo": {
+        "doubleaction": true,
+        "english": "Bombs create more ammo",
+        "catalan": "ボム投下で出る弾薬アイテムが増加する"
+    },
+    "perk_none_classic_ruleset": {
+        "doubleaction": true,
+        "english": "Classic ruleset",
+        "catalan": "ゲームルールが「クラシック」"
+    },
+    "perk_unfocused_dps": {
+        "doubleaction": true,
+        "english": "Higher unfocused shot damage",
+        "catalan": "高速ショットの威力が上昇する"
+    },
+    "pressanykey": {
+        "english": "Press Any Key",
+        "catalan": "Press Any Key"
+    },
+    "rank_level": {
+        "english": "Level %d",
+        "catalan": "<noloc>"
+    },
+    "replay_ask_save": {
+        "english": "Save replay?",
+        "catalan": "このリプレイを保存する?"
+    },
+    "replay_framerate_warning": {
+        "doubleaction": true,
+        "english": "This replay was recorded at a high framerate. It may play slowly on some devices.",
+        "catalan": "高フレームレートのリプレイです。\n一部の端末で処理落ちが発生する\nおそれがあります。"
+    },
+    "run_bonus": {
+        "english": "Run Bonus",
+        "catalan": "<noloc>"
+    },
+    "shipselect_hyper_description": {
+        "english": "The usual, hectic experience. The game will try to match your ability. For shooting veterans.",
+        "catalan": "高難易度で、\n操作が忙しくなります。\nゲーム難易度はプレイヤーの\nスキルで変動します。\nシューティング好きな貴方へ!"
+    },
+    "shipselect_normal_description": {
+        "english": "For novice players. Enemy patterns go easier on you, and you'll automatically bomb if you get hit.",
+        "catalan": "初心者向けです。\n敵機のパターンが簡単になり\n弾に当たるとオートボムが\n発動します。"
+    },
+    "shipselect_parallel_description": {
+        "doubleaction": true,
+        "english": "The game is locked at the highest difficulty. Fewer extends available, but more bombs. If you can clear this...",
+        "catalan": "MAXランクに固定されて\nいます。 エクステンドの数が\n限れていますが、 ボムが取得\nしやすくなっています。\nクリアできたら…"
+    },
+    "shipselect_speed": {
+        "doubleaction": true,
+        "english": "Movement Speed",
+        "catalan": "移動速度"
+    },
+    "shipselect_speed_fast": {
+        "doubleaction": true,
+        "english": "Fast (100%)",
+        "catalan": "早い (100%)"
+    },
+    "shipselect_speed_medium": {
+        "doubleaction": true,
+        "english": "Medium (90%)",
+        "catalan": "普通 (90%)"
+    },
+    "shipselect_speed_slow": {
+        "doubleaction": true,
+        "english": "Slow (75%)",
+        "catalan": "遅い (75％)"
+    },
+    "shipselect_weapon_bit_description": {
+        "doubleaction": true,
+        "english": "A typical lock-on weapon. The laser is misaligned...",
+        "catalan": "ごく普通のロックオン式武器\nただしレーザーの調子が…"
+    },
+    "shipselect_weapon_bit_name": {
+        "english": "Percept Bit",
+        "catalan": "PERCEPT BIT"
+    },
+    "shipselect_weapon_blade_name": {
+        "english": "Plasma Blade",
+        "catalan": "<noloc>"
+    },
+    "shipselect_weapon_blast_description": {
+        "doubleaction": true,
+        "english": "An impressive amount of pathetically weak grenades.",
+        "catalan": "驚くほど低威力の擲弾を\n驚くほど大量に投下する武器。"
+    },
+    "shipselect_weapon_blast_name": {
+        "english": "Cascade Blast",
+        "catalan": "CASCADE BLAST"
+    },
+    "shipselect_weapon_cable_description": {
+        "doubleaction": true,
+        "english": "The cable isn't insulated, so it's seriously dangerous.",
+        "catalan": "絶縁加工がまったくない。\n見るからに危険そうな武器だ。"
+    },
+    "shipselect_weapon_cable_name": {
+        "english": "Volt Cable",
+        "catalan": "VOLT CABLE"
+    },
+    "shipselect_weapon_cannon_name": {
+        "english": "Pierce Lancer",
+        "catalan": "<noloc>"
+    },
+    "shipselect_weapon_cluster_name": {
+        "english": "Cluster Missile",
+        "catalan": "<noloc>"
+    },
+    "shipselect_weapon_drone_description": {
+        "doubleaction": true,
+        "english": "Meagre damage on a direct hit. It'd be better to miss.",
+        "catalan": "直撃時は威力が貧弱だ。\n敵を避けて発射すると…"
+    },
+    "shipselect_weapon_drone_name": {
+        "english": "Zap Drone",
+        "catalan": "ZAP DRONE"
+    },
+    "shipselect_weapon_junk_name": {
+        "english": "Junk Cannon",
+        "catalan": "<noloc>"
+    },
+    "shipselect_weapon_lancer_name": {
+        "english": "Plasma Lancer",
+        "catalan": "<noloc>"
+    },
+    "shipselect_weapon_laser_name": {
+        "english": "Hyper Laser",
+        "catalan": "<noloc>"
+    },
+    "shipselect_weapon_lightning_name": {
+        "english": "Arc Caster",
+        "catalan": "<noloc>"
+    },
+    "shipselect_weapon_orb_description": {
+        "doubleaction": true,
+        "english": "Bounces off everything, including other orbs.",
+        "catalan": "発射体に弾力があり、\n発射体同士で弾くこともある。"
+    },
+    "shipselect_weapon_orb_name": {
+        "english": "Kinetic Orb",
+        "catalan": "KINETIC ORB"
+    },
+    "shipselect_weapon_payload_name": {
+        "english": "Cluster Payload",
+        "catalan": "<noloc>"
+    },
+    "shipselect_weapon_salvo_name": {
+        "english": "Fractal Salvo",
+        "catalan": "<noloc>"
+    },
+    "shipselect_weapon_shield_name": {
+        "english": "Gun Buckler",
+        "catalan": "<noloc>"
+    },
+    "shipselect_weapon_shrapnel_name": {
+        "english": "Scrap Option",
+        "catalan": "<noloc>"
+    },
+    "shipselect_weapon_stasis_name": {
+        "english": "Stasis Field",
+        "catalan": "<noloc>"
+    },
+    "shipselect_weapon_vortex_name": {
+        "english": "Vortex Barrier",
+        "catalan": "<noloc>"
+    },
+    "start_bombtoskip": {
+        "english": "BOMB: Skip",
+        "catalan": "ボム: スキップ"
+    },
+    "start_experimentalextends": {
+        "english": "Extends at:\nevery 20,000,000",
+        "catalan": "エクステンド:\n20,000,000ごとに"
+    },
+    "start_hyperextends": {
+        "english": "Extends at:\n5,000,000\nevery 15,000,000",
+        "catalan": "エクステンド:\n5,000,000\n15,000,000ごとに"
+    },
+    "start_hyperextends_classic": {
+        "doubleaction": true,
+        "english": "Extends at:\n5,000,000\n15,000,000\n25,000,000\n50,000,000",
+        "catalan": "エクステンド:\n5,000,000\n15,000,000\n25,000,000\n50,000,000"
+    },
+    "start_normalextends": {
+        "english": "Extends at:\n5,000,000\nevery 10,000,000",
+        "catalan": "エクステンド:\n5,000,000\n10,000,000ごとに"
+    },
+    "start_normalextends_classic": {
+        "doubleaction": true,
+        "english": "Extends at:\n5,000,000\n10,000,000\n20,000,000\n30,000,000",
+        "catalan": "エクステンド:\n5,000,000\n10,000,000\n20,000,000\n30,000,000"
+    },
+    "start_parallelextends": {
+        "english": "Extends at:\n40,000,000\n80,000,000\n120,000,000",
+        "catalan": "エクステンド:\n40,000,000\n80,000,000\n120,000,000"
+    },
+    "start_parallelextends_classic": {
+        "doubleaction": true,
+        "english": "Extends at:\nevery 15,000,000",
+        "catalan": "エクステンド:\n15,000,000ごとに"
+    },
+    "tutorial_bl_basics_1": {
+        "doubleaction": true,
+        "english": "Tap or hold %s for an unlimited-ammo machinegun.",
+        "catalan": "【%s】を連打したり、\n押しっぱなしにすると、\nショットを発射します。"
+    },
+    "tutorial_bl_basics_2": {
+        "doubleaction": true,
+        "english": "Tapping %s (or holding %s) lets you shoot while staying at full speed.",
+        "catalan": "【%s】を連打するか、\n【%s】を押したままにすると、\n発射しながら高速移動できます。"
+    },
+    "tutorial_bl_basics_3": {
+        "doubleaction": true,
+        "english": "Holding %s tightens the spread and does a little more damage - slowing you down for precise movement.",
+        "catalan": "【%s】を押しっぱなしにすると\n弾が集中し、 威力が少し上昇します。\n低速移動になり、 細かい動きが\nできるようになります。"
+    },
+    "tutorial_bl_basics_4": {
+        "doubleaction": true,
+        "english": "Hold %s for a special weapon. It uses ammo, but is more powerful.",
+        "catalan": "【%s】を押すと\nスペシャルショットを発射します。\n高威力ですが、 弾薬が消費されます。"
+    },
+    "tutorial_bl_basics_5": {
+        "doubleaction": true,
+        "english": "In a pinch, use a bomb with %s - making you invulnerable for a short duration, and turning enemy bullets into ammo.",
+        "catalan": "ピンチになったら【%s】を押し\nましょう。 自機が一時的に無敵になり、\n敵弾が弾薬アイテムに変化します。"
+    },
+    "tutorial_bl_basics_6": {
+        "doubleaction": true,
+        "english": "Only the yellow part in the middle of your ship is vulnerable - keep it safe.",
+        "catalan": "自機中央の黄色い部分が「当たり\n判定」です。 他の部分は当たっても\nダメージを受けません。"
+    },
+    "tutorial_bl_basics_7": {
+        "doubleaction": true,
+        "english": "Scoring well awards bonus lives - check the \"Scoring\" tutorial for more information.",
+        "catalan": "スコアが伸びると残機が増えます。\n詳しくは「スコア稼ぎ」の\nチュートリアルを参照してください。"
+    },
+    "tutorial_bl_basics_8": {
+        "doubleaction": true,
+        "english": "Good luck!",
+        "catalan": "<noloc>"
+    },
+    "tutorial_bl_hyper_1": {
+        "doubleaction": true,
+        "english": "Hyper mode uses a dynamic difficulty / \"rank\" system. The bar at the top represents the difficulty.",
+        "catalan": "ハイパーモードには「ランクシス\nテム」があり、 難易度が変動します。\n画面の上端にあるゲージは現在の\n難易度を示しています。"
+    },
+    "tutorial_bl_hyper_2": {
+        "doubleaction": true,
+        "english": "There are five color-coded difficulty levels.",
+        "catalan": "難易度のレベルは5段階あり、\nそれぞれ色分けされています。"
+    },
+    "tutorial_bl_hyper_3": {
+        "doubleaction": true,
+        "english": "Scoring points fills the difficulty bar until it levels up.",
+        "catalan": "スコアを獲得するとゲージが上昇し、\nゲージがいっぱいになると難易度の\nレベルが上がります。"
+    },
+    "tutorial_bl_hyper_4": {
+        "doubleaction": true,
+        "english": "Dying will level down the difficulty.",
+        "catalan": "被弾すると\n難易度のレベルが下がります。"
+    },
+    "tutorial_bl_hyper_5": {
+        "doubleaction": true,
+        "english": "Once max difficulty is reached, the difficulty eventually decreases on its own - the less lives you have, the faster it decreases.",
+        "catalan": "最大レベルに達すると、 ゲージが少し\nずつ減少します。 残機が少なければ\n少ないほど減少量が増えます。"
+    },
+    "tutorial_bl_scoring_1": {
+        "doubleaction": true,
+        "english": "Destroy enemies with the machinegun in quick succession to build up an 8-Chain.",
+        "catalan": "ショットを使って敵を続けて\n撃破すると、「HIT」カウンターが\n最大8コンボまで上昇します。"
+    },
+    "tutorial_bl_scoring_2": {
+        "doubleaction": true,
+        "english": "After building an 8-chain, use the special weapon to \"Flourish\" - destroy enemies with it to generate score items until the chain resets!",
+        "catalan": "8 HITの状態でスペシャルショットを\n発射すると「Flourish」が発動します。\nゲージがなくなるまでスペシャル\nショットで敵を撃破して、\n得点アイテムをたくさんゲット!"
+    },
+    "tutorial_bl_scoring_3": {
+        "doubleaction": true,
+        "english": "You can extend chains and flourishes using a bomb.",
+        "catalan": "ボムを投下するとゲージの減少が\n軽減され、 コンボや「Flourish」の\n状態を維持しやすくなります。"
+    },
+    "tutorial_bl_scoring_4": {
+        "doubleaction": true,
+        "english": "\"Break\" bonuses are point bonuses awarded for special \"tricks\".",
+        "catalan": "ゲーム中に特定の動作をすると\n「BREAK」ボーナスが発生し、\n高得点を獲得できます。"
+    },
+    "tutorial_bl_scoring_5": {
+        "doubleaction": true,
+        "english": "To score this bonus, destroy both wings in quick succession.",
+        "catalan": "中型機の片方の主翼パーツを破壊して\nからすぐ、 もう片方の主翼パーツを\n破壊し、「BREAK」を決めてみましょう。"
+    },
+    "tutorial_bl_scoring_6": {
+        "doubleaction": true,
+        "english": "Look for these markers to figure out how to score breaks.",
+        "catalan": "「BREAK」ボーナスが発生可能な\n場面では、 上のようなマークが\n出現することがあります。"
+    },
+    "tutorial_bl_scoring_6_break": {
+        "doubleaction": true,
+        "english": "Destroy this!",
+        "catalan": "迷わず\n破壊して～!"
+    },
+    "tutorial_bl_scoring_6_nobreak": {
+        "doubleaction": true,
+        "english": "Don't destroy this!",
+        "catalan": "破壊しちゃ\nダメ～!"
+    },
+    "tutorial_bl_scoring_7": {
+        "doubleaction": true,
+        "english": "Getting set score thresholds will award you with an \"extend\" - a bonus life!",
+        "catalan": "スコアが特定の数値に達すると、\n残機が増えて「エクステンド」します。"
+    },
+    "tutorial_xmode_1": {
+        "doubleaction": true,
+        "english": "In XP-Mode, special weapons consume lots of ammo, but always produce x64 score items.",
+        "catalan": "XPモードでは、スペシャルショットで\n敵を撃破すると、 64倍率の得点\nアイテムが出ます。 ただし、 弾薬が\n一気に減ります。"
+    },
+    "tutorial_xmode_2": {
+        "doubleaction": true,
+        "english": "Using your main shot will replenish ammunition. This is more effective at close-medium range.",
+        "catalan": "通常のショットを使用していると、\n弾薬ゲージが少しずつ回復します。\nやや近距離で敵を撃っていると、\n回復が早くなります。"
+    },
+    "tutorial_xmode_3": {
+        "doubleaction": true,
+        "english": "Scoring will upgrade your ship. This increases the game difficulty. Game difficulty never decreases in this mode.",
+        "catalan": "スコアが増えると、 自機が強くなり、\n難易度がだんだん上昇します。\nこのモードでは難易度が\n下がることはありません。"
+    },
+    "tutorial_xmode_4": {
+        "doubleaction": true,
+        "english": "Scoring also refills your bomb. You can only have 1 bomb in stock, but it turns enemy bullets into score and refills ammo instantly.",
+        "catalan": "スコアが増えるとボムゲージが\n回復します。 ボムストックは\n最大1個までです。 ボム投下後、\n敵弾が得点アイテムに変化し、\n弾薬ゲージが全回復します。"
+    },
+    "tutorial_xmode_5": {
+        "doubleaction": true,
+        "english": "The silver score items, produced by the bomb and some enemies, don't refill your bomb.",
+        "catalan": "ボム投下したときや、 一部の敵を撃破\nしたとき、 銀色の得点アイテムが\n出ます。 銀色のアイテムを拾っても、\nボムゲージは回復しません。"
+    },
+    "val_ending_1": {
+        "english": "VAL: ... ... ...",
+        "catalan": "VAL: …。"
+    },
+    "val_ending_2": {
+        "english": "VAL: I'm calling sick today.",
+        "catalan": "VAL: 今日は休もうか…。"
+    },
+    "val_ending_3": {
+        "english": "END",
+        "catalan": "END"
+    },
+    "val_ending_timings": {
+        "english": [
+            4,
+            5,
+            8
+        ],
+        "catalan": [
+            4,
+            5,
+            8
+        ]
+    },
+    "yes": {
+        "english": "Yes",
+        "catalan": "はい　"
+    }
+}
