@@ -576,37 +576,37 @@
     "dee_ending_1": {
         "doubleaction": true,
         "english": "DEE: Hmm... Something about this simulation isn't quite right.",
-        "catalan": "DEE「おかしいわ。\nこのシミュレーション何か変…」"
+        "catalan": "DEE: Hmm... alguna cosa no rutlla amb aquesta simulació."
     },
     "dee_ending_2": {
         "doubleaction": true,
         "english": "DEE: I could barely keep up with everything it tossed at me.",
-        "catalan": "DEE「いつもと違って、\n今回はまるで余裕がなかった」"
+        "catalan": "DEE: Amb prou feines podia amb tot el que em queia al damunt"
     },
     "dee_ending_3": {
         "doubleaction": true,
         "english": "DEE: Ira was in charge of today's training program. Surely she didn't tamper with any of the core Device settings?",
-        "catalan": "DEE「今日の訓練プログラムの担当は\nIRAだっけ? まさかデバイスの基本\n設定をいじったりしてないわよね…?」"
+        "catalan": "DEE: Ira era la responsable del programa de formació d'avui. Haurà manipulat la configuració bàsica del dispositiu?"
     },
     "dee_ending_4": {
         "doubleaction": true,
         "english": "DEE: My performance rating should definitely be higher...",
-        "catalan": "DEE「私の実績評価が\nこんなに低いはずがないわ…」"
+        "catalan": "DEEE: El resultat del meu rendiment hauria de ser superior..."
     },
     "dee_ending_5": {
         "doubleaction": true,
         "english": "DEE: ...",
-        "catalan": "DEE「…。」"
+        "catalan": "DEE: ..."
     },
     "dee_ending_6": {
         "doubleaction": true,
         "english": "DEE: I'm going to have a talk with her after this.",
-        "catalan": "DEE「あとでIRAと\nキッチリ話をする必要がありそうね…」"
+        "catalan": "DEE: Tindrem una conversa després del que ha passat."
     },
     "dee_ending_7": {
         "doubleaction": true,
         "english": "END",
-        "catalan": "END"
+        "catalan": "FI"
     },
     "dee_ending_timings": {
         "english": [
@@ -630,36 +630,36 @@
     },
     "difficulty_hyper": {
         "english": "Hyper",
-        "catalan": "ハイパー"
+        "catalan": "Hyper"
     },
     "difficulty_normal": {
         "english": "Normal",
-        "catalan": "ノーマル"
+        "catalan": "Normal"
     },
     "difficulty_parallel": {
         "english": "Parallel",
-        "catalan": "パラレル"
+        "catalan": "Parallel"
     },
     "difficulty_xmode": {
         "doubleaction": true,
         "english": "XP-Mode",
-        "catalan": "XPモード"
+        "catalan": "XP-Mode"
     },
     "error_leaderboard_upload": {
         "english": "Leaderboard upload error.",
-        "catalan": "エラー: アップロードが出来ませんでした。"
+        "catalan": "Error a la tramesa a la taula de classificació"
     },
     "error_replay_attach": {
         "english": "Replay attach error.",
-        "catalan": "リーダーボードエラー（attach）"
+        "catalan": "Error al adjuntar la repetició"
     },
     "error_replay_download": {
         "english": "Replay download error.",
-        "catalan": "エラー: リプレイを保存出来ませんでした。"
+        "catalan": "Error al descarregar la repetició"
     },
     "error_replay_upload": {
         "english": "Replay upload error.",
-        "catalan": "エラー: アップロードが出来ませんでした。"
+        "catalan": "Error al pujar la repetició"
     },
     "finalreward_congrats": {
         "doubleaction": true,
